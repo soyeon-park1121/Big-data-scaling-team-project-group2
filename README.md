@@ -1,11 +1,17 @@
 # Selling Price of Used Cars
 
 This repository is composed of 5 different notebook like this:
+
 10-data-processing
+
 20-eda
+
 21-eda-sale_price_gap
+
 30-modeling-predict_selling_price
+
 31-modeling-predict_sale_price_gap
+
 
 10 notebook shows data processing. 20 and 21 show EDA part, and 30 and 31 consists of modeling. One is for predicting selling price and the other is for predicting sale price gap (selling price - MMR)
 
