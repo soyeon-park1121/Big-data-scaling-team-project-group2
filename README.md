@@ -25,7 +25,7 @@ This is notebook is for exploratory data analysis. This notebook answers 2 quest
 While 20-eda notebook contains overall eda for feature engineering of '30-modeling_predict_selling_price', this notebook focuses on finding the relation between MMR and the actual sale price. We define Sale Price Gap = Final Sale Price – MMR. We did some EDA and plot the distribution of the sale price gap. This notebook is a stepping stone for 31-modeling-predict_sale_price_gap. 
 
 ## 30-modeling-predict_selling_price
-In this notebook, we built a pipeline to change all the category variables and assemble all the features in one column. Then we used the MLlib to build 3 kinds of model, which are linear regression, decision tree, and random forest. Then we calculated the correlation between the features and selling price. Finally, we used the for-loop to find out the depth for the best decision tree model.
+This part is related to 'modeling' section in the final report. In this notebook, we built a pipeline to change all the category variables and assemble all the features in one column. Then we used the MLlib to build 3 kinds of model, which are linear regression, decision tree, and random forest. Then we calculated the correlation between the features and selling price. Finally, we used the for-loop to find out the depth for the best decision tree model.
 
 ## 31-modeling-predict_sale_price_gap
-In this notebook, we use Google Cloud to build models to predict the sale price gap, which is in the examination part of the report. We choose linear regression and decision tree to complete it.
+In this notebook, we use Google Cloud to build models to predict the sale price gap, which is in the examination part of the report. We chose linear regression and decision tree to complete it.
